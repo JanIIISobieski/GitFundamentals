@@ -15,7 +15,7 @@ Assignment 1: Setup Course Tools and Git Fundamentals
    Pushed to GitHub repo  
    Created new branch  
    Created .gitignore in new branch  
-   Merged new branch into local master
+   Merged new branch into local master  
    Pushed to GitHub repo
    
 [git essentials]: https://www.lynda.com/Git-tutorials/Introduction/100222/111245-4.html?autoplay=true
