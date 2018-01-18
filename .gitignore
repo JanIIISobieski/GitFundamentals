@@ -2,3 +2,8 @@
 *.png
 *.jpeg
 *.eps
+
+#Don't track LaTeX files
+*.aux
+*.log
+*.pdf
